@@ -1,6 +1,6 @@
 进行push测试
 
-修改了本地仓库名称master -> main   
+修改了本地仓库名称master -> main
 
 命令:
 
@@ -16,4 +16,4 @@ git branch -m master main
 git push -u origin main    //其中-u意思是 --set-upstream
 ```
 
-测试
+测试2
