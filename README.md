@@ -29,3 +29,15 @@ git branch -m oldname newname
 ```
 git branch -m main master
 ```
+
+删除远程分支
+
+```
+git push origin --delete test
+```
+
+删除本地分支
+
+```
+git branch -d test
+```
